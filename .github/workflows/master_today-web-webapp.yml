@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'today-web-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6e92f0cb0dea43eab1ff783fc10824fc }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cc35c3aa5b5d4106a1511c8ac4e1ec61 }}

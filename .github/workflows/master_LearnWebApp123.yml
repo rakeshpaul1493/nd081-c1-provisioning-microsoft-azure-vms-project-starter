@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'LearnWebApp123'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_37a4fd5b30e14c18857f8b45c8c314f6 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_42da53cb6e7a40ecb98b6fca55e7bab0 }}
